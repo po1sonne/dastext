@@ -6,7 +6,18 @@
 }
 
 .wrapper {
-    
+    height: 50%;
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 12%;
+}
+
+.title_text {
+    font-size: 12vmin;
+}
+
+.subtitle_text {
+    font-size: 6vmin;
 }
 
 .main_button {
@@ -15,5 +26,6 @@
     border-radius: 8px;
     border-style: solid;
     border-color: hsl(60, 3%, 93%);
-    height: 4vh;
+    height: 6vh;
+    width: 6vw;
 }
